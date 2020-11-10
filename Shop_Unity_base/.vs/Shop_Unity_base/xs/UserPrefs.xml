@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{70B2437A-5EE8-C7E2-8EFE-CB79BCEE9577}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shop/Controller/ShopController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Shop/Controller/ShopController.cs" Line="39" Column="118" />
+      <File FileName="Assets/Scripts/Shop/View/ShopMessageView.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Shop/View/ShopView.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/Shop/States/ShopBrowseState.cs" Line="40" Column="60" />
+      <File FileName="Assets/Scripts/UnityUI/ItemContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnityUI/ModelContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shop/Model/ShopModel.cs" Line="72" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shop_Unity_base" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Shop" expanded="True">
+                  <Node name="Controller" expanded="True">
+                    <Node name="ShopController.cs" selected="True" />
+                  </Node>
+                  <Node name="Model" expanded="True" />
+                  <Node name="States" expanded="True" />
+                  <Node name="View" expanded="True" />
+                </Node>
+                <Node name="UnityUI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a6550134-22f2-450d-bcd0-eb4a66f2aece" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

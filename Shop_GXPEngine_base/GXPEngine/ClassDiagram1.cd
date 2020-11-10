@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GXPEngine.Camera" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.EasyDraw" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAKAgCAgBAAQABAQwAMAIGASgBKIAAEBAACAFBACA=</HashCode>
+      <FileName>GXPEngine\AddOns\EasyDraw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.HierarchyManager" Collapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAgIgAAAAQAAIACABAAAAAQlAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\HierarchyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Settings" Collapsed="true">
+    <Position X="24.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAABADOAQIJgAA4B0AhACAIAIEAQAAAAAAFwAQ=</HashCode>
+      <FileName>GXPEngine\AddOns\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Window" Collapsed="true">
+    <Position X="26.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgCAAAQAQECAAACAABAAAAAIDAAAAAAAgAA=</HashCode>
+      <FileName>GXPEngine\AddOns\Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimationSprite" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoEAAAAAgQAAAAQAQAEEIAAIAAAIAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimSprite" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Canvas" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAEQAAAAAAAAAAAAAAAAAAAgCAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Canvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.BlendMode" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BlendMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Transformable" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAgCQAAKCADBCAAAAACAAAABkAQSAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Transformable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.FMOD" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAUFIAAEIAARAQAAKAAGQZBgRAUIQBERgiAENAUAIIU=</HashCode>
+      <FileName>GXPEngine\FMOD\FMOD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Game" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkYAAACKAiQAAAYCYAAABAAAAABSIAAEYBAAAAAAAAw=</HashCode>
+      <FileName>GXPEngine\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.GameObject" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYRAAACAARBkgBECBAABEgQiBJnQAAIQhUAmASAAAI=</HashCode>
+      <FileName>GXPEngine\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.CollisionManager" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAgACAAAAAAAAAAAACBAAAAAAAAAAAIAABAAAAAAQ=</HashCode>
+      <FileName>GXPEngine\Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Mathf" Collapsed="true">
+    <Position X="28" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACBAABABAgABgEkAAEAAMAAA2AAAAAACgAAEKAAAA=</HashCode>
+      <FileName>GXPEngine\Mathf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Pivot" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Pivot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sound" Collapsed="true">
+    <Position X="21" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAABAAAAAAAAAAAAAoAAEAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.SoundChannel" Collapsed="true">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACABAAAAAAIQAAAAAIAIgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\SoundChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sprite" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQQJAIQMQAAAAAICgACAIgCAAAgQEAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Input" Collapsed="true">
+    <Position X="26.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAQAAAAEQAIAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Key" Collapsed="true">
+    <Position X="22.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YEACDAQQCBABIwCgiAAAAByUogMiEAwigAFA/v//YUE=</HashCode>
+      <FileName>GXPEngine\Utils\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.MouseHandler" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAQAAAAAIACQgAQAQBQAAAAAYgAAAAACQAw=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Time" Collapsed="true">
+    <Position X="21" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAEAAAAAAAAAIAAAAAAAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>GXPEngine\Utils\Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Utils" Collapsed="true">
+    <Position X="24.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAJAAAABQAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGame" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MyGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.MapParser" Collapsed="true">
+    <Position X="26.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAACAABA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Map" Collapsed="true">
+    <Position X="24.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABQAAIAAEAEABAGACAAAAAAAcAAAAAQAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.TileSet" Collapsed="true">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAACQAAAQAABAAIAAAAQgAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.PropertyContainer" Collapsed="true">
+    <Position X="11.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAARAAAAAAAQEAAAIAAAAAACAAAAABAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.ImageLayer" Collapsed="true">
+    <Position X="13" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAADEAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Image" Collapsed="true">
+    <Position X="24.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAAAEAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Layer" Collapsed="true">
+    <Position X="15.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAAAEQAAAAAQBAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Data" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.PropertyList" Collapsed="true">
+    <Position X="22.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Property" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.ObjectGroup" Collapsed="true">
+    <Position X="8.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.Text" Collapsed="true">
+    <Position X="24.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQEAIAIAAAAGAAAgAAAAAAAAAACIAAAAgAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.TiledObject" Collapsed="true">
+    <Position X="10.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABABAAAgAAEAAAAAEQAAAAAAAAAAQAAAAAAYAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiledMapParser.TiledUtils" Collapsed="true">
+    <Position X="28" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\TiledMapParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.BoxCollider" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAgAAADAAAAAAAAAAAgAgAAIAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BoxCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Collider" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Collision" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAAAEAAAAAAAgAAAAAAgAAAAAAAAQAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.WindowSize" Collapsed="true">
+    <Position X="28" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.GLContext" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAIgAAAQIiIhUQAchgAAUxAIJAACAAAABgACAKQICI=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Texture2D" Collapsed="true">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBgBDgISCEAAQARAAAAAAIBYAAAAAAAACEAAAAABA=</HashCode>
+      <FileName>GXPEngine\Core\Texture2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Managers.UpdateManager" Collapsed="true">
+    <Position X="22.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAACAAAAQAAAAAAAABAAAAAAAAAAAIAAAAAAQAAI=</HashCode>
+      <FileName>GXPEngine\Managers\UpdateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.OpenGL.GL" Collapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIMIkv8YAKVPDNATBJKwDWInUxAuGCk1ASBisEB+y1k=</HashCode>
+      <FileName>GXPEngine\OpenGL\GL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.NameProperty" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\ItemProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.AttackProperty" Collapsed="true">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\ItemProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.CostProperty" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\ItemProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.AmountProperty" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\ItemProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.ItemProperty" Collapsed="true">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAABAAAAAAAAAAAAAAAAAAgAAIAAAAAAACAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\ItemProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Composite.PropertiesContainer" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Composite\PropertiesContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ShopController" Collapsed="true">
+    <Position X="26.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAABA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Controller\ShopController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Factory.ItemFactoryLevel1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Factory\ItemFactoryLevel1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GXPEngine.Shop.Factory.ItemFactoryLevel2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Factory\ItemFactoryLevel2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GXPEngine.Shop.Factory.ItemSpawner" Collapsed="true">
+    <Position X="21" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAAIA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Factory\ItemSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Item" Collapsed="true">
+    <Position X="5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Model\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.ShopModel" BaseTypeListCollapsed="true">
+    <Position X="31.5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAMgBARIAAAABACARAAAABAQAQAAEkABAAQAAQCUQAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Model\ShopModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="States.ShopBrowseState" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Shop\States\ShopBrowseState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Shop.Testing.ShopTesting" Collapsed="true">
+    <Position X="19.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>Shop\Testing\ShopTesting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Helper" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shop\View\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ShopMessageView" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAApAAEAAAAAAA=</HashCode>
+      <FileName>Shop\View\ShopMessageView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.ShopView" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgQAQAAAAEAgAABEAAEAAEAAACAEEAoAAECAggQAA=</HashCode>
+      <FileName>Shop\View\ShopView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="GameObjectPair" Collapsed="true">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAACAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\HierarchyManager.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GXPEngine.Core.Rectangle" Collapsed="true">
+    <Position X="21" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABQEQAAAAAgAAAAIAAAAAABgAAAAgAA=</HashCode>
+      <FileName>GXPEngine\Core\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GXPEngine.Core.Vector2" Collapsed="true">
+    <Position X="22.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Vector2.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GXPEngine.Shop.Factory.ItemFactory" Collapsed="true">
+    <Position X="19.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Interfaces\ItemFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GXPEngine.Shop.Observer.Observer" Collapsed="true">
+    <Position X="21" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GXPEngine.Shop.Observer.Subject" Collapsed="true">
+    <Position X="22.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Observer\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GXPEngine.CenterMode" Collapsed="true">
+    <Position X="19.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>GXPEngine\AddOns\EasyDraw.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GXPEngine.MouseEventType" Collapsed="true">
+    <Position X="21" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQBAAAAAAAgEAAAAAAABAAAAAAEAAAAAAAAACAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="GXPEngine.Shop.Observer.Update" Collapsed="true">
+    <Position X="19.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Google Drive\Saxion\2 Year\Quartile 2\Software Architecture\shop_basefiles\Shop_Unity_base\Assets\Scripts\Shop\Observer\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
